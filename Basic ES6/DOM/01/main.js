@@ -15,3 +15,9 @@ it adds "Hello, World!"
 */
 
 document.getElementById("subLine").textContent = "Add text via ECMAScript";
+
+let js = 'Amazing';
+
+if (js === 'Amazing'){
+    alert ("Yeah, That's good.");
+}
